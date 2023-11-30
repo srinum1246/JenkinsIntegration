@@ -45,11 +45,14 @@ public class TestngSampleTest1 {
 		driver=new ChromeDriver(options);
 		driver.get("https://www.facebook.com");
 		
+		
+		
 	}
 	
 	@Test
 	public void test1() {
 		System.out.println("Test case 1");
+		System.out.println("Url name is :"+driver.getCurrentUrl());
 	}
 	
 	

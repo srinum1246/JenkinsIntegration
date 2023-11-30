@@ -44,13 +44,14 @@ public class TestngSampleTest {
 		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") +"\\Drivers\\chromedriver.exe");
 		driver=new ChromeDriver(options);
 		driver.get("https://www.google.com");
-		System.out.println("Url name is :"+driver.getCurrentUrl());
+		
 		
 	}
 	
 	@Test
 	public void test1() {
 		System.out.println("Test case 1");
+		System.out.println("Url name is :"+driver.getCurrentUrl());
 	}
 	
 	
