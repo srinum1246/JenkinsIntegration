@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-30T16:42:51 IST" name="Default suite" finished-at="2023-11-30T16:43:01 IST" duration-ms="9572">
+  <suite started-at="2023-11-30T18:16:03 IST" name="Suite" finished-at="2023-11-30T18:16:14 IST" duration-ms="10606">
     <groups>
     </groups>
-    <test started-at="2023-11-30T16:42:51 IST" name="Default test" finished-at="2023-11-30T16:43:01 IST" duration-ms="9572">
-      <class name="TestCases.TestngSampleTest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:51 IST" name="beforeSuite" finished-at="2023-11-30T16:42:51 IST" duration-ms="4" status="PASS">
+    <test started-at="2023-11-30T18:16:03 IST" name="Test" finished-at="2023-11-30T18:16:14 IST" duration-ms="10606">
+      <class name="TestCases.TestngSampleTest1">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:03 IST" name="beforeSuite" finished-at="2023-11-30T18:16:03 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:51 IST" name="beforeTest" finished-at="2023-11-30T16:42:51 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:03 IST" name="beforeTest" finished-at="2023-11-30T18:16:03 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:51 IST" name="beforeClass" finished-at="2023-11-30T16:42:51 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:03 IST" name="beforeClass" finished-at="2023-11-30T18:16:03 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:51 IST" name="beforeMethod" finished-at="2023-11-30T16:42:57 IST" duration-ms="5499" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:03 IST" name="beforeMethod" finished-at="2023-11-30T18:16:10 IST" duration-ms="6722" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test1()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:57 IST" name="test1" finished-at="2023-11-30T16:42:57 IST" duration-ms="6" status="PASS">
+        <test-method signature="test1()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:10 IST" name="test1" finished-at="2023-11-30T18:16:10 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:57 IST" name="AfterMethod" finished-at="2023-11-30T16:42:57 IST" duration-ms="648" status="PASS">
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:10 IST" name="AfterMethod" finished-at="2023-11-30T18:16:11 IST" duration-ms="693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:42:57 IST" name="beforeMethod" finished-at="2023-11-30T16:43:00 IST" duration-ms="2727" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:11 IST" name="beforeMethod" finished-at="2023-11-30T18:16:13 IST" duration-ms="2489" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test2()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:43:00 IST" name="test2" finished-at="2023-11-30T16:43:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="test2()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:13 IST" name="test2" finished-at="2023-11-30T18:16:13 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:43:00 IST" name="AfterMethod" finished-at="2023-11-30T16:43:01 IST" duration-ms="657" status="PASS">
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:13 IST" name="AfterMethod" finished-at="2023-11-30T18:16:14 IST" duration-ms="656" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:43:01 IST" name="AfterClass" finished-at="2023-11-30T16:43:01 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:14 IST" name="AfterClass" finished-at="2023-11-30T18:16:14 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterClass -->
-        <test-method is-config="true" signature="AfterTest()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:43:01 IST" name="AfterTest" finished-at="2023-11-30T16:43:01 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:14 IST" name="AfterTest" finished-at="2023-11-30T18:16:14 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->
-        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:TestCases.TestngSampleTest@2d710f1a]" started-at="2023-11-30T16:43:01 IST" name="AfterSuite" finished-at="2023-11-30T16:43:01 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:TestCases.TestngSampleTest1@2d710f1a]" started-at="2023-11-30T18:16:14 IST" name="AfterSuite" finished-at="2023-11-30T18:16:14 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->
-      </class> <!-- TestCases.TestngSampleTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- TestCases.TestngSampleTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
